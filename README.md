@@ -3,31 +3,29 @@
 Independent research, systems, and public build work by Dennis Hedegreen.
 
 I make things that can be checked:
-tools, data surfaces, experiments, notes, and small systems.
+tools, data surfaces, experiments, notes, rooms, and small systems.
 
-This is not a branding layer first.
-It is a work layer.
+This is work, not profile theater.
 
 This profile is the GitHub front door for Hedegreen Research.
 
-## What Lives Here
-
-- public tools
-- politics data surfaces
-- experiment and lab outputs
-- research notes
-- infrastructure and method
+What lives here:
+public tools, politics-data surfaces, experiment and lab outputs, interactive rooms, reproducible artifacts, research notes, infrastructure, and method.
 
 ## Start Here
 
 - [Hedegreen Research](https://www.hedegreenresearch.com)
-- [Hedegreen Research Lab Results](https://github.com/DennisHedegreen/Hedegreen-Research-Lab-Results)
+- [TID](https://www.hedegreenresearch.com/tid/)
+- [Circuit Lab demo](https://www.hedegreenresearch.com/tid/circuit-lab-demo/)
+- [Signal](https://www.hedegreenresearch.com/signal/)
 - [Danish Politics Data](https://github.com/DennisHedegreen/danish-politics-data)
 - [Swedish Politics Data](https://github.com/DennisHedegreen/swedish-politics-data)
-- [TID](https://www.hedegreenresearch.com/tid/)
+- [Hedegreen Research Lab Results](https://github.com/DennisHedegreen/Hedegreen-Research-Lab-Results)
 
-## Selected Public Surfaces
+## Current Public Surfaces
 
+- [signal](https://github.com/DennisHedegreen/signal)
+- [Inside the Terminal Video Kit](https://github.com/DennisHedegreen/inside-the-terminal-music-video-tool)
 - [nearest-gravhoj](https://github.com/DennisHedegreen/nearest-gravhoj)
 - [bio-log](https://github.com/DennisHedegreen/bio-log)
 
@@ -42,4 +40,4 @@ Only loyalty to what survives pressure.
 - not a startup profile
 - not a founder pitch
 - not a lifestyle brand
-- not a claim that everything here is finished
+- not a finished archive
