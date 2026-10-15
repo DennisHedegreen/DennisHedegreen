@@ -23,12 +23,12 @@ This is work, not profile theater.
 | [Belgian Politics Data](https://belgium-politics-data-hetgwp6yhueo4ffajjw7sd.streamlit.app/) | Public preview of Chamber 2024 patterns and Statbel factors. | [Repository](https://github.com/DennisHedegreen/belgium-politics-data) |
 | [nabour](https://nabour-cgm7pgryxblb9zyahfwrkw.streamlit.app/) | Structural municipality matching between Denmark and Sweden. | [Repository](https://github.com/DennisHedegreen/nabour) |
 | [Human Baseline Population and Energy](https://human-baseline-population-energy-bvvlgn8pezxxdgrcuphkns.streamlit.app/) | Population × chosen kcal per person, with daily, average-month and annual totals. | [Repository](https://github.com/DennisHedegreen/human-baseline-population-energy) |
+| [Human Baseline Food Quantities](https://human-baseline-food-engine-8hbsy3wcvaagbgkvxiulx5.streamlit.app/) | v0.4.0 prototype: population/kcal scenarios translated into one food's weight and approximate item counts. | [Repository](https://github.com/DennisHedegreen/human-baseline-food-engine) |
 
 Politics tools expose patterns, not causal explanations. Human Baseline calculates an energy scenario, not a complete diet or proof of food delivery.
 
 ## Streamlit Source Awaiting a Public App Address
 
-- [Human Baseline Food](https://github.com/DennisHedegreen/human-baseline-food-engine) — v0.4.0 source release: translates population/kcal scenarios into food weight and approximate item counts. Streamlit deployment is pending.
 - [Market Gaps](https://github.com/DennisHedegreen/hr-market-gaps) — interactive public cases and a session-based case workspace. The [TID case register](https://hedegreenresearch.com/tid/market-gaps/) is public; a hosted app address is not listed here yet.
 
 Source availability and a running hosted app are different states.
